@@ -8,11 +8,11 @@ I enjoy building software, exploring new technologies and understanding how thin
 
 ## About Me
 
-- 🎓 Computer Science student at SUPSI
-- 🔐 Interested in cybersecurity and systems programming
-- 🛠️ Building personal projects and full-stack applications
-- 🧩 Interested in software architecture and solving practical problems
-- 📍 Based in Ticino, Switzerland
+- Computer Science student at SUPSI
+- Interested in cybersecurity and systems programming
+- Building personal projects and full-stack applications
+- Interested in software architecture and solving practical problems
+- Based in Ticino, Switzerland
 
 ## Technologies
 
@@ -45,6 +45,6 @@ A web and mobile application for managing reservations and resources, developed 
 
 **Repository not publicly available due to security and confidentiality requirements.**
 
-## 🔭 Currently Working On
+## Currently Working On
 
-**WraithSeal** — Developing a secure, hardware-assisted storage system in Rust, with a focus on cryptographic design, file formats and system architecture.
+**WraithSeal** - Developing a secure, hardware-assisted storage system in Rust, with a focus on cryptographic design, file formats and system architecture.
