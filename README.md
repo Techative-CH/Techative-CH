@@ -1,16 +1,50 @@
-### Hi there 👋
+# Hi, I'm Samuel Banfi 👋
 
-<!--
-**Techative-CH/Techative-CH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Computer Science Student**
 
-Here are some ideas to get you started:
+I'm a Computer Science student at SUPSI with an interest in cybersecurity, software development and system architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building software, exploring new technologies and understanding how things work under the hood.
+
+## About Me
+
+- 🎓 Computer Science student at SUPSI
+- 🔐 Interested in cybersecurity and systems programming
+- 🛠️ Building personal projects and full-stack applications
+- 🧩 Interested in software architecture and solving practical problems
+- 📍 Based in Ticino, Switzerland
+
+## Technologies
+
+**Languages**
+
+- Java
+- Python
+- Rust
+- TypeScript
+
+**Frameworks & Tools**
+
+- React / Next.js
+- NestJS
+- Spring Boot
+- PostgreSQL
+- Git
+
+## Featured Projects
+
+### WraithSeal
+
+A hardware-assisted encrypted vault built with Rust, focused on secure data storage, authentication and reliable software design.
+
+[Repository](https://github.com/Techative-CH/wraithseal)
+
+### Digital Reservation System
+
+A web and mobile application for managing reservations and resources, developed as part of my Bachelor thesis.
+
+**Repository not publicly available due to security and confidentiality requirements.**
+
+## 🔭 Currently Working On
+
+**WraithSeal** — Developing a secure, hardware-assisted storage system in Rust, with a focus on cryptographic design, file formats and system architecture.
